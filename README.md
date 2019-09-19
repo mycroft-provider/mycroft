@@ -6,8 +6,6 @@
 Sistema para gerenciamento de ISP baseado em mikrotik versão 6.+ .
 
 Suporte a:
-* Hotspot
-* PppoE
 * Dhcp (option 82) AAA
 * Múltiplos concentradores
 * Vouchers
